@@ -1,0 +1,10 @@
+Hey everyone, here is the quick guide to getting onto the corporate VPN. It's pretty straightforward but some folks get stuck on the MFA step.
+
+First off, you need to download the GlobalProtect VPN client (or whatever client your team uses, but standard is GlobalProtect). Go to the IT Portal and find the download link. Install it on your machine.
+Once it's installed, open it up. It will ask for the portal/gateway address. Enter: vpn.company.com
+Click Connect.
+It will pop up a window asking for your SSO credentials (username and password).
+After that, it's going to trigger an MFA prompt on your authenticator app (Microsoft Authenticator). Approve the notification on your phone.
+If you're on a Linux box, you might need to use OpenConnect. The CLI command is usually something like: sudo openconnect vpn.company.com.
+
+If you run into any issues (like connection timed out or MFA not sending), open a ticket with IT-Helpdesk on Slack or email support@company.com.

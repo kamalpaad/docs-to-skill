@@ -1,0 +1,18 @@
+New hire onboarding - checklist (messy, combined from 3 old docs, someone please clean up eventually)
+
+day 1:
+laptop should already be at your desk / shipped to home if remote. if not there contact IT helpdesk immediately ext 4400
+badge photo + activation happens at security desk lobby level 1, bring gov id
+accounts: email should be pre-provisioned, but Slack/Jira/Confluence need manual invite from your manager - ping them day 1 if you don't have invites by lunch
+laptop setup: run the "Setup Assistant" app on first boot, it installs VPN client, endpoint security agent, and SSO config automatically, takes ~20 min
+
+week 1:
+complete mandatory compliance trainings in the LMS (portal.internal/lms) - security awareness, code of conduct, harassment prevention - due within 5 business days
+1:1 with manager to review 30/60/90 day plan
+get added to team's on-call rotation doc (even if not on-call yet, just so you're visible)
+request access to any team-specific tools via the access-request portal (see VPN doc for portal link, same one)
+
+by end of month 1:
+should have completed at least 2 code reviews or equivalent work review if non-eng
+first skip-level with manager's manager, usually scheduled automatically but double check
+benefits enrollment deadline is 30 days from start date - after that you have to wait for open enrollment, don't miss it

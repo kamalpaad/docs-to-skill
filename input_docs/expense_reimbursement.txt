@@ -1,0 +1,13 @@
+EXPENSE REIMBURSEMENT - random notes dumped here by finance team, sorry for the mess
+
+- submit within 30 days of purchase or it gets rejected automatically, no exceptions unfortunately
+- use the Expensify app, login with company SSO
+- take a photo of the receipt, itemized receipt required for anything over $75, credit card statement alone is not enough
+- pick the right category!! this trips people up: "Travel", "Meals", "Software/Subscriptions", "Office Supplies", "Other" (avoid Other if possible, slows down approval)
+- meals: $50/day cap when traveling, no cap for team lunches but need 3+ attendees listed
+- client entertainment needs VP approval attached BEFORE submitting, not after
+- approval chain is: manager -> finance -> payment, usually 5-7 business days total once submitted correctly
+- payment goes out via direct deposit same as payroll, separate line item though
+- international purchases: submit in local currency, Expensify auto-converts using the day-of-purchase rate
+- mileage: use the built in mileage tracker in the app, don't estimate manually, current rate is set centrally and updates automatically
+- if rejected, you'll get an email with a reason code, just fix and resubmit, don't open a new one
